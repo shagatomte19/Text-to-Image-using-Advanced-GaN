@@ -2,3 +2,7 @@ tssenv/
 __pycache__/
 *.pyc
 *.pyo
+.venv/
+tssenv/
+__pycache__/
+*.pyc
